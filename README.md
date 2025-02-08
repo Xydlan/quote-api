@@ -26,11 +26,11 @@ POST /generate
       "avatar": true,
       "from": {
         "id": 66478514,
-        "first_name": "Yuri 💜",
-        "last_name": "Ly",
-        "username": "LyoSU",
-        "language_code": "ru",
-        "title": "Yuri 💜 Ly",
+        "first_name": "Mecha 💜",
+        "last_name": "Echa",
+        "username": "Echa",
+        "language_code": "id",
+        "title": "Mecha 💜 Cha",
         "photo": {
           "small_file_id": "AQADAgADCKoxG7Jh9gMACBbSEZguAAMCAAOyYfYDAATieVimvJOu7M43BQABHgQ",
           "small_file_unique_id": "AQADFtIRmC4AA843BQAB",
